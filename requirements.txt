@@ -1,0 +1,3 @@
+#requriements.txt
+snowflake-snowspark-python
+streamlit
